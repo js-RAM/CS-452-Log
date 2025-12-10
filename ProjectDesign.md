@@ -4,6 +4,12 @@ build grocery lists and then send those grocery lists, through our website, to s
 recipes with grocery shopping.
 
 ## Sketches
+![ERD Diagram](./kitchenERDpng.png)
+
+## Tech Stack
+We are using PHP as the backend language with the Laravel framework. We are using a mySQL database.
+For the frontend, we are using typescript with react. Composer will manage our backend libraries and 
+node will manage our frontend libraries.
 
 ## Goals
 This has been an ongoing product some of my coworkers have been working on
