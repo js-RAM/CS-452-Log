@@ -9,3 +9,7 @@ Log for cs 452 project
 | November 12th | Make some adjustments to the front page formatting and rebase local branch | 1 hour |
 | November 23rd | Go through components and give more specific typing   | 2 hours |
 | November 24th | Plan as a group and add some more types to page componenets | 2.5 hours |
+| November 30th | Create a new route that returns a random recipe and modify the front page to display it | 3 hours |
+| December 1st | Run tests a merge code | 1 hour |
+| December 4th | Create current ERD Diagram | 2 hours |
+| December 8th | Create additional test cases, rebase and update to PHP 8.5 | 3 hours |
