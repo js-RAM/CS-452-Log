@@ -2,6 +2,8 @@
 ## Summary
 The Kitchen Assistant is a recipe website that makes sharing and viewing recipes easy. 
 Ingredients are linked to recipes and can be used to build ingredient lists. These lists can be used to create a Kroger shopping cart.
+## Demo
+![Demo](./KitchenAssistantDemo.mp4)
 ## Diagrams
 ![ERD](./kitchenERDpng.png)
 ## Learning
