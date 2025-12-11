@@ -13,3 +13,4 @@ Log for cs 452 project
 | December 1st | Run tests a merge code | 1 hour |
 | December 4th | Create current ERD Diagram | 2 hours |
 | December 8th | Create additional test cases, rebase and update to PHP 8.5 | 3 hours |
+| December 10th | Fix some broken formatting on frontend and debug tests on latest PHP | 2 hours |
