@@ -11,7 +11,12 @@ The Demo video does not play on Github. You can follow the link, download it and
 ![ERD](./kitchenERDpng.png)
 This diagram has changed slightly, but it still gives good insight into the general structure
 ## Images
-
+Dashboard
+![ERD](./kitchen3.png)
+View Recipes
+![ERD](./kitchen1.png)
+Edit Recipe
+![ERD](./kitchen2.png)
 ## Learning
 One of the biggest things I learned was the difficulty and power of working with a team. Because there are four of us, and one of us has professional experience, the codebase was always changing
 This meant I often had to understand the changes and update and debug my configurations as the PHP versions, libraries, and workflows changed. This added some overhead to making changes. Github relieved some of these collaboration
