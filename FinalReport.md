@@ -17,6 +17,11 @@ View Recipes
 ![ERD](./kitchen1.png)
 Edit Recipe
 ![ERD](./kitchen2.png)
+Grocery List
+![ERD](./kitchen4.png)
+Kroger Purchasing
+![ERD](./kitchen5.png)
+
 ## Learning
 One of the biggest things I learned was the difficulty and power of working with a team. Because there are four of us, and one of us has professional experience, the codebase was always changing
 This meant I often had to understand the changes and update and debug my configurations as the PHP versions, libraries, and workflows changed. This added some overhead to making changes. Github relieved some of these collaboration
