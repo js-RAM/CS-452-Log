@@ -9,6 +9,7 @@ The Demo video does not play on Github. You can follow the link, download it and
 ![Demo](./KitchenAssistantDemo.mp4)
 ## Diagrams
 ![ERD](./kitchenERDpng.png)
+This diagram has changed slightly, but it still gives good insight into the general structure
 ## Images
 
 ## Learning
