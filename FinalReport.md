@@ -11,14 +11,14 @@ One of the biggest things I learned was the difficulty and power of working with
 This meant I often had to understand the changes and update and debug my configurations as the PHP versions, libraries, and workflows changed. This added some overhead to making changes. Github relieved some of these collaboration
 challenges, but not all. Despite this, the codebase made massive improvements, becoming better structured, gaining more features, and becoming better tested. More progress was made together than alone. <br>
 
-I have also learned Typescript and React better.
+I have also become better in Typescript and React.
 ### Key Learning
 - Teamwork on a large project
 - React with Typescript
 - PHP configurations and extensions
 
 ## AI
-Although we do not use AI in our website, we have used AI to help write some of our test cases and debug various functions
+We used AI to generate embeddings for recipes for better searching. These embeddings are created through a request to OpenAIs APIs. We have also used AI to help write some of our test cases and debug various functions
 
 ## Why this Project
 This website started as the passion project of one of my coworkers. I have interest in this project as I feel it will help me cook healthier and better plan my meals. 
