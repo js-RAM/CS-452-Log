@@ -8,8 +8,8 @@ Right now the website is private and requires an invite link to register, but th
 The Demo video does not play on Github. You can follow the link, download it and view it that way
 ![Demo](./KitchenAssistantDemo.mp4)
 ## Diagrams
-![ERD](./kitchenERDpng.png)
 This diagram has changed slightly, but it still gives good insight into the general structure
+![ERD](./kitchenERDpng.png)
 ## Images
 Dashboard
 ![ERD](./kitchen3.png)
